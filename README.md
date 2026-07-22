@@ -1,5 +1,5 @@
 Library Management System (LMS)
-A clean, beginner‑friendly LMS that lets users search books, check real‑time availability (stock and next‑available date/ETA) and price, and perform actions: Issue, Return, Renew, Place Hold, and optional Buy. This repo starts with a C (C11) CLI prototype and is structured to grow into a web app later. No deploys yet—local setup instructions below.
+A clean, beginner‑friendly LMS that lets users search books, check real‑time availability (stock and next‑available date/ETA) and price, and perform actions: Issue, Return, Renew, Place Hold, and optional Buy. This repo starts with a C (C11) CLI prototype and is structured to grow into a web app later. No deploys yet—local setup instructions below. 
 
 Status
 
